@@ -1,0 +1,47 @@
+C:\Users\eyigi\Desktop\my_library\bin\Debug\my_library.exe.config
+C:\Users\eyigi\Desktop\my_library\bin\Debug\my_library.exe
+C:\Users\eyigi\Desktop\my_library\bin\Debug\my_library.pdb
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.Form1.resources
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.Properties.Resources.resources
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.csproj.GenerateResource.cache
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.csproj.CoreCompileInputs.cache
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.exe
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.pdb
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.csproj.AssemblyReference.cache
+C:\Users\eyigi\Desktop\my_library\obj\Debug\my_library.Form2.resources
+C:\Users\Fatih\Desktop\my_library - Kopya\bin\Debug\my_library.exe.config
+C:\Users\Fatih\Desktop\my_library - Kopya\bin\Debug\my_library.exe
+C:\Users\Fatih\Desktop\my_library - Kopya\bin\Debug\my_library.pdb
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.Form1.resources
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.Form2.resources
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.Properties.Resources.resources
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.exe
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.pdb
+C:\Users\Fatih\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.ResolveComReference.cache
+C:\Users\Fatih\Desktop\123\my_library - Kopya\bin\Debug\my_library.exe.config
+C:\Users\Fatih\Desktop\123\my_library - Kopya\bin\Debug\my_library.exe
+C:\Users\Fatih\Desktop\123\my_library - Kopya\bin\Debug\my_library.pdb
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.csproj.ResolveComReference.cache
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.Form1.resources
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.Form2.resources
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.Properties.Resources.resources
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.exe
+C:\Users\Fatih\Desktop\123\my_library - Kopya\obj\Debug\my_library.pdb
+C:\Users\eyigi\Desktop\my_library - Kopya\bin\Debug\my_library.exe.config
+C:\Users\eyigi\Desktop\my_library - Kopya\bin\Debug\my_library.exe
+C:\Users\eyigi\Desktop\my_library - Kopya\bin\Debug\my_library.pdb
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.AssemblyReference.cache
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.ResolveComReference.cache
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.Form1.resources
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.Form2.resources
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.Properties.Resources.resources
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.GenerateResource.cache
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.csproj.CoreCompileInputs.cache
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.exe
+C:\Users\eyigi\Desktop\my_library - Kopya\obj\Debug\my_library.pdb

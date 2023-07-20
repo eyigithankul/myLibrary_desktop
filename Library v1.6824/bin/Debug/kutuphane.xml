@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kitaplar>
+  <Kitap>
+    <KitapAdi>deneme adi</KitapAdi>
+    <Yazar>denem yazar</Yazar>
+    <Raf>deneme raf</Raf>
+    <Not>deneme not</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>deneme adi2</KitapAdi>
+    <Yazar>denem yazar2</Yazar>
+    <Raf>deneme raf2</Raf>
+    <Not>deneme not2</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>deneme adi2321</KitapAdi>
+    <Yazar>denem yazar23</Yazar>
+    <Raf>deneme raf23</Raf>
+    <Not>kaybettim</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>aa</KitapAdi>
+    <Yazar>aadenem yazar234</Yazar>
+    <Raf>aadeneme raf234</Raf>
+    <Not>mithata ödünç verdim</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>dbbaa</KitapAdi>
+    <Yazar>dbaadenem yazar234</Yazar>
+    <Raf>dbabadeneme raf234</Raf>
+    <Not>geri aldımaa</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>aaaaaa</KitapAdi>
+    <Yazar>bbbb</Yazar>
+    <Raf>ccccc</Raf>
+    <Not>ddddgeri aldımq</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>aaa</KitapAdi>
+    <Yazar>aaaa</Yazar>
+    <Raf>aaaaa</Raf>
+    <Not>qqqq</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>aaww</KitapAdi>
+    <Yazar>aadenem yazar234</Yazar>
+    <Raf>aadeneme raf234</Raf>
+    <Not>mithata ödünç verdim</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>aaaaaaqqq</KitapAdi>
+    <Yazar>bbbb</Yazar>
+    <Raf>ccccc</Raf>
+    <Not>ddddgeri aldım</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>yiğido2</KitapAdi>
+    <Yazar>aaaa</Yazar>
+    <Raf>15</Raf>
+    <Not>ajbhgv</Not>
+  </Kitap>
+  <Kitap>
+    <KitapAdi>ghg</KitapAdi>
+    <Yazar>ghghgh</Yazar>
+    <Raf>hgghg</Raf>
+    <Not>hgghhg</Not>
+  </Kitap>
+</Kitaplar>
